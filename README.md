@@ -2,7 +2,6 @@
 
 # Rice Classification Machine Learning Project
 
-A comprehensive machine learning project implementing Decision Tree classification for rice variety identification using morphological features, with advanced data analysis and visualization capabilities.
 
 ## Overview
 
